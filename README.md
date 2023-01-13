@@ -38,3 +38,30 @@ Here is a list of items to improve the usability of ChatEase:
 
 To mark an item as complete, simply add an "x" within the brackets, like this: [x].
 
+## Creating a Pull Request for ChatEase
+
+1. Fork the ChatEase repository on GitHub.
+2. Clone the forked repository to your local machine.
+3. Make the desired changes to the code and test them thoroughly.
+4. Commit your changes to your local repository with a descriptive commit message.
+5. Push your changes to the forked repository on GitHub.
+6. On the ChatEase repository, click the "Pull Request" button to open a new pull request.
+7. In the pull request, provide a detailed description of the changes you've made and why they are important.
+8. Assign the pull request to the appropriate maintainers or reviewers for review.
+9. Wait for feedback from the maintainers or reviewers.
+10. Address any feedback or issues that are raised in the review process.
+11. Once the pull request is approved, it will be merged into the ChatEase repository.
+
+### To-Do List for creating a pull request
+- [ ] Fork the ChatEase repository on GitHub.
+- [ ] Clone the forked repository to your local machine.
+- [ ] Make the desired changes to the code and test them thoroughly.
+- [ ] Commit your changes to your local repository with a descriptive commit message.
+- [ ] Push your changes to the forked repository on GitHub.
+- [ ] Open a new pull request on the ChatEase repository.
+- [ ] Provide a detailed description of the changes in the pull request.
+- [ ] Assign the pull request to the appropriate maintainers or reviewers.
+- [ ] Address any feedback or issues raised in the review process.
+- [ ] Once the pull request is approved, it will be merged into the ChatEase repository.
+
+
