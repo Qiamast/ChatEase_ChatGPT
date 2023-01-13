@@ -1,0 +1,63 @@
+/* General styles */
+body {
+  background-color: #e5e5e5;
+  font-family: Arial, sans-serif;
+}
+
+/* Conversation container */
+.conversation {
+  padding: 20px;
+  max-height: 80vh;
+  overflow-y: scroll;
+}
+
+/* Message container */
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+/* Sent messages */
+.sent {
+  background-color: #dcf8c6;
+  float: right;
+  clear: both;
+}
+
+/* Received messages */
+.received {
+  background-color: #fff;
+  float: left;
+  clear: both;
+}
+
+/* Input container */
+.input-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-top: 1px solid #ccc;
+}
+
+/* Input field and button */
+input, button {
+  padding: 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+}
